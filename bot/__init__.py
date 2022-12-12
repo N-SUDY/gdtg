@@ -15,7 +15,7 @@ class Config(object):
   API_HASH = '4e5b39e5c7c6066e5144dfc50cf466cf'
   DOWNLOAD_DIR = 'downloads'
   AUTH_USERS = [1349301822, 5468192421]
-  DATABASE_URL = str("postgres://ihrsawqm:EiUg6VXSWiuy1yr2Cps_-jF0uKu1Jped@arjuna.db.elephantsql.com/ihrsawqm")
+  DATABASE_URL = str("mongodb+srv://AutoAnime:AutoAnime@autoanime.f8ahzhs.mongodb.net/?retryWrites=true&w=majority")
   USERNAME = "gdtg"
 
 LOG_FILE_NAME = "Gdrive-Bot@Log.txt"
