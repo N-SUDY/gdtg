@@ -10,12 +10,12 @@ class Creds:
  TEAMDRIVE_ID = ""
 
 class Config(object):
-  BOT_TOKEN = ''
-  API_ID = ''
-  API_HASH = ''
+  BOT_TOKEN = '5705156853:AAETn1HpOHb0POCFGqUCwGOLyVHVN0qR_rM'
+  API_ID = '17894641'
+  API_HASH = '4e5b39e5c7c6066e5144dfc50cf466cf'
   DOWNLOAD_DIR = 'downloads'
-  AUTH_USERS = [5703071595, 1522872961]
-  DATABASE_URL = str("")
+  AUTH_USERS = [1349301822, 5468192421]
+  DATABASE_URL = str("postgres://ihrsawqm:EiUg6VXSWiuy1yr2Cps_-jF0uKu1Jped@arjuna.db.elephantsql.com/ihrsawqm")
   USERNAME = ""
 
 LOG_FILE_NAME = "Gdrive-Bot@Log.txt"
