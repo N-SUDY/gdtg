@@ -34,8 +34,8 @@ async def help_message(bot, message):
 async def help_message(bot, message):
   if message.chat.id not in Config.AUTH_USERS:
     return
-  txt = "**Simple Gdrive Bot**"
-  await bot.send_message(chat_id=message.chat.id,text=txt, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('Join Fiercenetwork', url='https://t.me/Fiercenetwork')]]), reply_to_message_id=message.id)
+  txt = "**TG To TD Bot**"
+  await bot.send_message(chat_id=message.chat.id,text=txt, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('Join UTUMLBT, url='https://t.me/UTUMLBT)]]), reply_to_message_id=message.id)
 
 @bot.on_message(filters.incoming & filters.command(["authorise"]))
 async def help_message(bot, message):
