@@ -10,7 +10,7 @@ class Creds:
  TEAMDRIVE_ID = ""
 
 class Config(object):
-  BOT_TOKEN = '5705156853:AAETn1HpOHb0POCFGqUCwGOLyVHVN0qR_rM'
+  BOT_TOKEN = '5861946623:AAGgy4F6sqLIs8FCzjNqN4ppgknw_2gvBRU'
   API_ID = '17894641'
   API_HASH = '4e5b39e5c7c6066e5144dfc50cf466cf'
   DOWNLOAD_DIR = 'downloads'
